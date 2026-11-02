@@ -39,8 +39,6 @@
   } else {
     root.classList.add("no-js");
   }
-
-  document.getElementById("year").textContent = new Date().getFullYear();
 })();
 
 // Logo e "Torna su": ritorno all'inizio della home
